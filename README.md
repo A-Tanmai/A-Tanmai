@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @A-Tanmai
 - 👀 I’m interested in Coding & Learning Computer Languages
 - 🌱 I’m currently learning HTML , CSS , Javascript , C Programming , Python
-- 💞️ I’m looking to collaborate on ... 
+- 💞️ I’m looking to collaborate on National Institue of Tadepalligudem ( NIT ) Andhra Pradesh
 - 📫 Email Me on : tanmai01.appana@gmail.com
 
 <!---
